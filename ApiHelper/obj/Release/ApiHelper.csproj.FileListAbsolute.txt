@@ -1,0 +1,14 @@
+C:\Code\ApiHelper\ApiHelper\bin\Release\ApiHelper.exe.config
+C:\Code\ApiHelper\ApiHelper\bin\Release\ApiHelper.exe
+C:\Code\ApiHelper\ApiHelper\bin\Release\ApiHelper.pdb
+C:\Code\ApiHelper\ApiHelper\obj\Release\App.g.cs
+C:\Code\ApiHelper\ApiHelper\obj\Release\MainWindow.g.cs
+C:\Code\ApiHelper\ApiHelper\obj\Release\ApiHelper_MarkupCompile.cache
+C:\Code\ApiHelper\ApiHelper\obj\Release\ApiHelper_MarkupCompile.lref
+C:\Code\ApiHelper\ApiHelper\obj\Release\App.baml
+C:\Code\ApiHelper\ApiHelper\obj\Release\MainWindow.baml
+C:\Code\ApiHelper\ApiHelper\obj\Release\ApiHelper.g.resources
+C:\Code\ApiHelper\ApiHelper\obj\Release\ApiHelper.Properties.Resources.resources
+C:\Code\ApiHelper\ApiHelper\obj\Release\ApiHelper.csproj.GenerateResource.Cache
+C:\Code\ApiHelper\ApiHelper\obj\Release\ApiHelper.exe
+C:\Code\ApiHelper\ApiHelper\obj\Release\ApiHelper.pdb

@@ -1,0 +1,33 @@
+C:\Code\ApiHelper\ApiHelper\bin\Debug\ApiHelper.exe.config
+C:\Code\ApiHelper\ApiHelper\bin\Debug\ApiHelper.exe
+C:\Code\ApiHelper\ApiHelper\bin\Debug\ApiHelper.pdb
+C:\Code\ApiHelper\ApiHelper\obj\Debug\ApiHelper.csprojResolveAssemblyReference.cache
+C:\Code\ApiHelper\ApiHelper\obj\Debug\MainWindow.g.cs
+C:\Code\ApiHelper\ApiHelper\obj\Debug\App.g.cs
+C:\Code\ApiHelper\ApiHelper\obj\Debug\ApiHelper_MarkupCompile.cache
+C:\Code\ApiHelper\ApiHelper\obj\Debug\ApiHelper_MarkupCompile.lref
+C:\Code\ApiHelper\ApiHelper\obj\Debug\MainWindow.baml
+C:\Code\ApiHelper\ApiHelper\obj\Debug\ApiHelper.g.resources
+C:\Code\ApiHelper\ApiHelper\obj\Debug\ApiHelper.Properties.Resources.resources
+C:\Code\ApiHelper\ApiHelper\obj\Debug\ApiHelper.csproj.GenerateResource.Cache
+C:\Code\ApiHelper\ApiHelper\obj\Debug\ApiHelper.exe
+C:\Code\ApiHelper\ApiHelper\obj\Debug\ApiHelper.pdb
+C:\Code\ApiHelper\ApiHelper\obj\Debug\App.baml
+C:\Users\penx\Documents\Visual Studio 2013\Projects\ApiHelper\ApiHelper\bin\Debug\ApiHelper.exe.config
+C:\Users\penx\Documents\Visual Studio 2013\Projects\ApiHelper\ApiHelper\obj\Debug\ApiHelper.exe
+C:\Users\penx\Documents\Visual Studio 2013\Projects\ApiHelper\ApiHelper\obj\Debug\ApiHelper.pdb
+C:\Users\penx\Documents\Visual Studio 2013\Projects\ApiHelper\ApiHelper\bin\Debug\ApiHelper.exe
+C:\Users\penx\Documents\Visual Studio 2013\Projects\ApiHelper\ApiHelper\bin\Debug\ApiHelper.pdb
+C:\Users\penx\Documents\Visual Studio 2013\Projects\ApiHelper\ApiHelper\obj\Debug\ApiHelper.csprojResolveAssemblyReference.cache
+C:\Users\penx\Documents\Visual Studio 2013\Projects\ApiHelper\ApiHelper\obj\Debug\App.g.cs
+C:\Users\penx\Documents\Visual Studio 2013\Projects\ApiHelper\ApiHelper\obj\Debug\MainWindow.g.cs
+C:\Users\penx\Documents\Visual Studio 2013\Projects\ApiHelper\ApiHelper\obj\Debug\ApiHelper_MarkupCompile.cache
+C:\Users\penx\Documents\Visual Studio 2013\Projects\ApiHelper\ApiHelper\obj\Debug\ApiHelper_MarkupCompile.lref
+C:\Users\penx\Documents\Visual Studio 2013\Projects\ApiHelper\ApiHelper\obj\Debug\App.baml
+C:\Users\penx\Documents\Visual Studio 2013\Projects\ApiHelper\ApiHelper\obj\Debug\MainWindow.baml
+C:\Users\penx\Documents\Visual Studio 2013\Projects\ApiHelper\ApiHelper\obj\Debug\ApiHelper.g.resources
+C:\Users\penx\Documents\Visual Studio 2013\Projects\ApiHelper\ApiHelper\obj\Debug\ApiHelper.Properties.Resources.resources
+C:\Users\penx\Documents\Visual Studio 2013\Projects\ApiHelper\ApiHelper\obj\Debug\ApiHelper.csproj.GenerateResource.Cache
+D:\GitCode\ApiHelper\ApiHelper\bin\Debug\ApiHelper.exe.config
+D:\GitCode\ApiHelper\ApiHelper\obj\Debug\ApiHelper.exe
+D:\GitCode\ApiHelper\ApiHelper\obj\Debug\ApiHelper.pdb
